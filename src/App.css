@@ -1,7 +1,9 @@
-.App {
-  text-align: center;
+body{
+    font-family: 'Chango', cursive;
+    color: rgba(0, 0, 0, 0.705);
+    background-attachment: fixed;
+    
 }
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;

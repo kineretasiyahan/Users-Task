@@ -7,3 +7,14 @@
   display: flex;
   justify-content: center;
 }
+/* .search-Button>button {
+background-color: black;
+color: white;
+border-radius: 10px;
+} */
+.active {
+  color: green;
+}
+.inactive {
+  color: red;
+}
